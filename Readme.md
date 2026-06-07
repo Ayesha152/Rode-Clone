@@ -1,6 +1,6 @@
 # Rode Clone &nbsp; ![badge](https://img.shields.io/badge/-HTML-brightgreen) ![badge](https://img.shields.io/badge/-Tailwind%20CSS-blue) 
 
-[![](https://img.shields.io/badge/Live-Link-blue)](https://rode-clone-site.netlify.app/)
+[![](https://img.shields.io/badge/Live-Link-blue)](https://ayesha152.github.io/Rode-Clone/)
 
 ## Skills acquired 👨‍💻
 - How to design the responsive cards using tailwind css.
